@@ -1,8 +1,8 @@
 {
   "name": "bc-indexer",
   "version": "0.0.9",
-  "description": "A starting point for Node.js express apps with TypeScript",
-  "author": "Thierry Banh",
+  "description": "Bolero Music blockchain indexeer",
+  "author": "Bolero Music",
   "engines": {
     "node": "18.x"
   },
